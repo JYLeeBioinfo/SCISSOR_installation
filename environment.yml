@@ -4,6 +4,7 @@ channels:
   - bioconda
 dependencies:
   - r-base
+  - r-devtools
   - r-biocmanager
   - bioconductor-rsamtools
   - bioconductor-genomicranges
