@@ -1,0 +1,14 @@
+name: SCISSOR
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base
+  - r-biocmanager
+  - bioconductor-rsamtools
+  - bioconductor-genomicranges
+  - r-refgenome
+  - r-rcolorbrewer
+  - r-wesanderson
+  - r-nloptr
+  - r-zoo 
