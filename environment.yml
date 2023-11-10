@@ -8,8 +8,9 @@ dependencies:
   - r-biocmanager
   - bioconductor-rsamtools
   - bioconductor-genomicranges
-  - r-refgenome
+#  - r-refgenome
   - r-rcolorbrewer
   - r-wesanderson
   - r-nloptr
   - r-zoo 
+  - bioconductor-ballgown
