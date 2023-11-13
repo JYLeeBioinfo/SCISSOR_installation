@@ -14,5 +14,3 @@ dependencies:
   - r-nloptr
   - r-zoo 
   - bioconductor-ballgown
-  - r-ggpubr
-  - rstudio-desktop
