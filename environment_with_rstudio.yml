@@ -1,4 +1,4 @@
-name: SCISSOR
+name: R_rstudio20240523
 channels:
   - conda-forge
   - bioconda
@@ -17,3 +17,11 @@ dependencies:
 #optional packages - for rstudio
   - r-ggpubr
   - rstudio-desktop
+# other packages
+  - r-glue
+  - r-data.table
+  - r-dplyr
+  - bioconductor-complexheatmap
+  - r-gtools
+  - bioconductor-summarizedexperiment
+  - r-ggpmisc
