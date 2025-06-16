@@ -28,6 +28,6 @@ R
 ```
  - And then install remaining dependencies and SCISSOR as follows.
 ```
-devtools::install_github(cran/refGenome)
+devtools::install_github("cran/refGenome")
 devtools::install_github("hyochoi/SCISSOR")
 ```
